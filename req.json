@@ -1,0 +1,9 @@
+{
+  "urls": [
+    "https://go.dev/blog/gopher/header.jpg", 
+    "https://golang.org/doc/gopher/modelsheet.jpg",
+    "https://httpstat.us/404"
+  ],
+  "width": 200,
+  "height": 0
+}
